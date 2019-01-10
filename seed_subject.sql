@@ -1,5 +1,4 @@
-INSERT INTO subject
-values
+INSERT INTO subject VALUES
 ("matematica"),
 ("fisica"),
 ("scienze"),
